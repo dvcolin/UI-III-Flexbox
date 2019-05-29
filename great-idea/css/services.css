@@ -112,6 +112,7 @@ body {
     background: url(../img/services-header.jpg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
 }
 
 .services-heading {
@@ -196,6 +197,10 @@ main {
 .services-info-img {
     margin-left: auto;
     width: 48%;
+    background: url(../img/services-info.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 /****************** FOOTER **************/
